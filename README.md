@@ -38,13 +38,13 @@ I'll update this README as I go through each lecture.
 
 | Lecture | Duration | Watched | Time Watched |
 |--------|----------|---------|--------------|
-| Lecture 1 | --:-- | [✅] |  |
-| Lecture 2 | --:-- | [✅] |  |
-| Lecture 3 | --:-- | [✅] |  |
-| Lecture 4 | --:-- | [ ] |  |
-| Lecture 5 | --:-- | [ ] |  |
-| Lecture 6 | --:-- | [✅] |  |
-| Lecture 7 | --:-- | [ ] |  |
+| Lecture 1 | --:-- | ✅ |  |
+| Lecture 2 | --:-- | ✅ |  |
+| Lecture 3 | --:-- | ✅ |  |
+| Lecture 4 | --:-- |  |  |
+| Lecture 5 | --:-- |  |  |
+| Lecture 6 | --:-- |  |  |
+| Lecture 7 | --:-- |  |  |
 
 </details>
 
