@@ -1,7 +1,7 @@
 # 📘 C/C++ Course Progress Tracker
 
 This repository is for tracking my progress through a C/C++ course (76h+ total length).  
-I'll update this README as I go through each lecture.
+I'll update this README as I go through each lecture by placing a ✅ in the "Watched" column when completed.
 
 ---
 
@@ -10,24 +10,23 @@ I'll update this README as I go through each lecture.
 - **Total Sections:** 28  
 - **Total Lectures:** 449  
 - **Total Duration:** 76h 8min  
-- ✅ Use the checkboxes in the table to mark lectures as watched  
-- ⏱️ Use `Time Watched` to track partial completion
+- ✅ Add a checkmark (`✅`) in the Watched column as you complete each lecture
 
 ---
 
 <details>
 <summary>📂 <strong>Required Setup for Programming</strong> (8 lectures • 50min)</summary>
 
-| Lecture | Duration | Watched | Time Watched |
-|--------|----------|---------|--------------|
-| Online C and C++ compiler | 04:12 | [ ] |  |
-| Setup CodeBlocks and Settings | 08:50 | [ ] |  |
-| Setup Dev-C++ and Settings | 05:50 | [ ] |  |
-| Debugging using Dev-C++ | 07:19 | [ ] |  |
-| Debugging using CodeBlocks | 06:15 | [ ] |  |
-| Setup Visual Studio | 06:09 | [ ] |  |
-| Debugging using Visual Studio | 06:02 | [ ] |  |
-| Setup Xcode | 05:52 | [ ] |  |
+| Lecture | Duration | Watched |
+|--------|----------|---------|
+| Online C and C++ compiler | 04:12 |  |
+| Setup CodeBlocks and Settings | 08:50 |  |
+| Setup Dev-C++ and Settings | 05:50 |  |
+| Debugging using Dev-C++ | 07:19 |  |
+| Debugging using CodeBlocks | 06:15 |  |
+| Setup Visual Studio | 06:09 |  |
+| Debugging using Visual Studio | 06:02 |  |
+| Setup Xcode | 05:52 |  |
 
 </details>
 
@@ -36,15 +35,15 @@ I'll update this README as I go through each lecture.
 <details>
 <summary>📂 <strong>Introduction</strong> (7 lectures • 1hr 25min)</summary>
 
-| Lecture | Duration | Watched | Time Watched |
-|--------|----------|---------|--------------|
-| Lecture 1 | --:-- | ✅ |  |
-| Lecture 2 | --:-- | ✅ |  |
-| Lecture 3 | --:-- | ✅ |  |
-| Lecture 4 | --:-- |  |  |
-| Lecture 5 | --:-- |  |  |
-| Lecture 6 | --:-- |  |  |
-| Lecture 7 | --:-- |  |  |
+| Lecture | Duration | Watched |
+|--------|----------|---------|
+| Lecture 1 | — |  |
+| Lecture 2 | — |  |
+| Lecture 3 | — |  |
+| Lecture 4 | — |  |
+| Lecture 5 | — |  |
+| Lecture 6 | — |  |
+| Lecture 7 | — |  |
 
 </details>
 
@@ -53,41 +52,41 @@ I'll update this README as I go through each lecture.
 <details>
 <summary>📂 <strong>Recursion</strong> (33 lectures • 5hr 5min)</summary>
 
-| Lecture | Duration | Watched | Time Watched |
-|--------|----------|---------|--------------|
-| Lecture 1 | --:-- | [ ] |  |
-| Lecture 2 | --:-- | [ ] |  |
-| Lecture 3 | --:-- | [ ] |  |
-| Lecture 4 | --:-- | [ ] |  |
-| Lecture 5 | --:-- | [ ] |  |
-| Lecture 6 | --:-- | [ ] |  |
-| Lecture 7 | --:-- | [ ] |  |
-| Lecture 8 | --:-- | [ ] |  |
-| Lecture 9 | --:-- | [ ] |  |
-| Lecture 10 | --:-- | [ ] |  |
-| Lecture 11 | --:-- | [ ] |  |
-| Lecture 12 | --:-- | [ ] |  |
-| Lecture 13 | --:-- | [ ] |  |
-| Lecture 14 | --:-- | [ ] |  |
-| Lecture 15 | --:-- | [ ] |  |
-| Lecture 16 | --:-- | [ ] |  |
-| Lecture 17 | --:-- | [ ] |  |
-| Lecture 18 | --:-- | [ ] |  |
-| Lecture 19 | --:-- | [ ] |  |
-| Lecture 20 | --:-- | [ ] |  |
-| Lecture 21 | --:-- | [ ] |  |
-| Lecture 22 | --:-- | [ ] |  |
-| Lecture 23 | --:-- | [ ] |  |
-| Lecture 24 | --:-- | [ ] |  |
-| Lecture 25 | --:-- | [ ] |  |
-| Lecture 26 | --:-- | [ ] |  |
-| Lecture 27 | --:-- | [ ] |  |
-| Lecture 28 | --:-- | [ ] |  |
-| Lecture 29 | --:-- | [ ] |  |
-| Lecture 30 | --:-- | [ ] |  |
-| Lecture 31 | --:-- | [ ] |  |
-| Lecture 32 | --:-- | [ ] |  |
-| Lecture 33 | --:-- | [ ] |  |
+| Lecture | Duration | Watched |
+|--------|----------|---------|
+| Lecture 1 | — |  |
+| Lecture 2 | — |  |
+| Lecture 3 | — |  |
+| Lecture 4 | — |  |
+| Lecture 5 | — |  |
+| Lecture 6 | — |  |
+| Lecture 7 | — |  |
+| Lecture 8 | — |  |
+| Lecture 9 | — |  |
+| Lecture 10 | — |  |
+| Lecture 11 | — |  |
+| Lecture 12 | — |  |
+| Lecture 13 | — |  |
+| Lecture 14 | — |  |
+| Lecture 15 | — |  |
+| Lecture 16 | — |  |
+| Lecture 17 | — |  |
+| Lecture 18 | — |  |
+| Lecture 19 | — |  |
+| Lecture 20 | — |  |
+| Lecture 21 | — |  |
+| Lecture 22 | — |  |
+| Lecture 23 | — |  |
+| Lecture 24 | — |  |
+| Lecture 25 | — |  |
+| Lecture 26 | — |  |
+| Lecture 27 | — |  |
+| Lecture 28 | — |  |
+| Lecture 29 | — |  |
+| Lecture 30 | — |  |
+| Lecture 31 | — |  |
+| Lecture 32 | — |  |
+| Lecture 33 | — |  |
 
 </details>
 
@@ -96,23 +95,23 @@ I'll update this README as I go through each lecture.
 <details>
 <summary>📂 <strong>Arrays Representations</strong> (15 lectures • 1hr 54min)</summary>
 
-| Lecture | Duration | Watched | Time Watched |
-|--------|----------|---------|--------------|
-| Lecture 1 | --:-- | [ ] |  |
-| Lecture 2 | --:-- | [ ] |  |
-| Lecture 3 | --:-- | [ ] |  |
-| Lecture 4 | --:-- | [ ] |  |
-| Lecture 5 | --:-- | [ ] |  |
-| Lecture 6 | --:-- | [ ] |  |
-| Lecture 7 | --:-- | [ ] |  |
-| Lecture 8 | --:-- | [ ] |  |
-| Lecture 9 | --:-- | [ ] |  |
-| Lecture 10 | --:-- | [ ] |  |
-| Lecture 11 | --:-- | [ ] |  |
-| Lecture 12 | --:-- | [ ] |  |
-| Lecture 13 | --:-- | [ ] |  |
-| Lecture 14 | --:-- | [ ] |  |
-| Lecture 15 | --:-- | [ ] |  |
+| Lecture | Duration | Watched |
+|--------|----------|---------|
+| Lecture 1 | — |  |
+| Lecture 2 | — |  |
+| Lecture 3 | — |  |
+| Lecture 4 | — |  |
+| Lecture 5 | — |  |
+| Lecture 6 | — |  |
+| Lecture 7 | — |  |
+| Lecture 8 | — |  |
+| Lecture 9 | — |  |
+| Lecture 10 | — |  |
+| Lecture 11 | — |  |
+| Lecture 12 | — |  |
+| Lecture 13 | — |  |
+| Lecture 14 | — |  |
+| Lecture 15 | — |  |
 
 </details>
 
@@ -120,10 +119,8 @@ I'll update this README as I go through each lecture.
 
 ## 🛠️ Usage Instructions
 
-- Clone this repo or fork it for your own use
-- Tick the checkboxes as you complete lectures
-- Fill in actual time watched if you don't finish a video in one go
-- You can also add notes below each section if needed
+- Clone or fork this repo for personal use
+- Add `✅` in the Watched column as you complete each lecture
 
 ---
 
