@@ -216,13 +216,13 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 131 - Introduction to Strings | 21:24 | |
-| 132 - Finding Length of a String | 4:39 | |
-| 133 - Changing Case of a String | 8:3 | |
-| 134 - Counting Words and Vowels in a String | 8:55 | |
-| 135 - Validating a String | 6:2 | |
-| 136 - Reversing a String | 8:44 | |
-| 137 - Comparing Strings and Checking Palindrome | 11:2 | |
+| 131 - Introduction to Strings | 21:24 |✅ |
+| 132 - Finding Length of a String | 4:39 |✅ |
+| 133 - Changing Case of a String | 8:3 |✅ |
+| 134 - Counting Words and Vowels in a String | 8:55 |✅ |
+| 135 - Validating a String | 6:2 |✅ |
+| 136 - Reversing a String | 8:44 |✅ |
+| 137 - Comparing Strings and Checking Palindrome | 11:2 |✅ |
 | 138 - Finding Duplicates in a String | 12:54 | |
 | 139 - Finding Duplicates in a String using Bitwise Operations | 25:9 | |
 | 140 - Checking if 2 Strings are Anagram distinct letters | 13:38 | |
