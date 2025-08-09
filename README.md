@@ -1,6 +1,6 @@
-# 📘 C/C++ Course Progress Tracker
+# 📘 DSA Course Progress Tracker
 
-This repository is for tracking my progress through a C/C++ course (76h+ total length).  
+This repository is for tracking my progress through a DSA course.  
 I'll update this README as I go through each lecture by placing a ✅ in the "Watched" column when completed.
 
 ---
