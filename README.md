@@ -23,8 +23,8 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 1 - Instructors Note | 2:22 | |
-| 2 - Introduction | 13:22 | |
+| 1 - Instructors Note | 2:22 | ✅|
+| 2 - Introduction | 13:22 | ✅|
 </details>
 
 ---
@@ -223,7 +223,7 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 | 135 - Validating a String | 6:2 |✅ |
 | 136 - Reversing a String | 8:44 |✅ |
 | 137 - Comparing Strings and Checking Palindrome | 11:2 |✅ |
-| 138 - Finding Duplicates in a String | 12:54 | |
+| 138 - Finding Duplicates in a String | 12:54 | ✅|
 | 139 - Finding Duplicates in a String using Bitwise Operations | 25:9 | |
 | 140 - Checking if 2 Strings are Anagram distinct letters | 13:38 | |
 | 141 - Permutation of String | 31:31 | |
