@@ -34,11 +34,11 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 3 - Arrays Basics | 6:23 | |
-| 4 - Practice Arrays Basics | 13:37 | |
-| 5 - Structures | 18:26 | |
-| 6 - Practice Structures | 10:49 | |
-| 7 - Pointers | 11:1 | |
+| 3 - Arrays Basics | 6:23 |✅ |
+| 4 - Practice Arrays Basics | 13:37 |✅ |
+| 5 - Structures | 18:26 |✅ |
+| 6 - Practice Structures | 10:49 |✅ |
+| 7 - Pointers | 11:1 |✅ |
 | 8 - Practice Pointers | 14:41 | |
 | 9 - Reference in C | 3:56 | |
 | 10 - Practice Reference | 5:15 | |
