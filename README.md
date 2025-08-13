@@ -104,23 +104,23 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 46 - How Recursion Works Tracing | 19:3 | |
-| 47 - Generalising Recursion | 2:7 | |
-| 48 - How Recursion uses Stack | 10:47 | |
-| 49 - Recurrence Relation Time Complexity of Recursion | 11:7 | |
-| 50 - Lets Code Recursion | 11:33 | |
-| 51 - Static and Global Variables in Recursion | 8:29 | |
-| 52 - Lets Code Static and Global in Recursion | 7:1 | |
-| 53 - Tail Recursion | 7:21 | |
-| 54 - Head Recursion | 4:54 | |
-| 55 - Tree Recursion | 17:27 | |
-| 56 - Lets Code Tree Recursion | 5:36 | |
-| 57 - Indirect Recursion | 4:38 | |
-| 58 - Lets Code Indirect Recursion | 3:9 | |
-| 59 - Nested Recursion | 7:5 | |
-| 60 - Lets Code Nested Recursion | 2:29 | |
-| 61 - Sum of Natural Number using Recursion | 10:21 | |
-| 62 - Lets Code Sum of N using Recursion | 4:29 | |
+| 46 - How Recursion Works Tracing | 19:3 |✅ |
+| 47 - Generalising Recursion | 2:7 |✅ |
+| 48 - How Recursion uses Stack | 10:47 | ✅|
+| 49 - Recurrence Relation Time Complexity of Recursion | 11:7 |✅ |
+| 50 - Lets Code Recursion | 11:33 |✅ |
+| 51 - Static and Global Variables in Recursion | 8:29 | ✅|
+| 52 - Lets Code Static and Global in Recursion | 7:1 |✅ |
+| 53 - Tail Recursion | 7:21 |✅ |
+| 54 - Head Recursion | 4:54 |✅ |
+| 55 - Tree Recursion | 17:27 |✅ |
+| 56 - Lets Code Tree Recursion | 5:36 |✅ |
+| 57 - Indirect Recursion | 4:38 |✅ |
+| 58 - Lets Code Indirect Recursion | 3:9 |✅ |
+| 59 - Nested Recursion | 7:5 |✅ |
+| 60 - Lets Code Nested Recursion | 2:29 |✅ |
+| 61 - Sum of Natural Number using Recursion | 10:21 |✅ |
+| 62 - Lets Code Sum of N using Recursion | 4:29 |✅ |
 | 63 - Factorial using Recursion | 4:40 | |
 | 64 - Lets Code Factorial using Recursion | 4:58 | |
 | 65 - Power using Recursion | 13:39 | |
