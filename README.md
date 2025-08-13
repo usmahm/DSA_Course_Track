@@ -39,19 +39,19 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 | 5 - Structures | 18:26 |✅ |
 | 6 - Practice Structures | 10:49 |✅ |
 | 7 - Pointers | 11:1 |✅ |
-| 8 - Practice Pointers | 14:41 | |
-| 9 - Reference in C | 3:56 | |
-| 10 - Practice Reference | 5:15 | |
-| 11 - Pointer to Structure | 6:3 | |
-| 12 - Practice Pointer to Structure | 6:44 | |
-| 13 - Functions | 12:19 | |
-| 14 - Practice Functions | 5:37 | |
-| 15 - Parameter Passing Methods | 14:3 | |
-| 16 - Practice Parameter Passing Methods | 11:20 | |
-| 17 - Array as Parameter | 7:26 | |
-| 18 - Practice Array as Parameter | 13:35 | |
-| 19 - Structure as Parameter | 10:32 | |
-| 20 - Practice Structure as Parameter | 11:5 | |
+| 8 - Practice Pointers | 14:41 |✅ |
+| 9 - Reference in C | 3:56 |✅ |
+| 10 - Practice Reference | 5:15 | ✅|
+| 11 - Pointer to Structure | 6:3 | ✅|
+| 12 - Practice Pointer to Structure | 6:44 |✅ |
+| 13 - Functions | 12:19 |✅ |
+| 14 - Practice Functions | 5:37 |✅ |
+| 15 - Parameter Passing Methods | 14:3 |✅ |
+| 16 - Practice Parameter Passing Methods | 11:20 |✅ |
+| 17 - Array as Parameter | 7:26 |✅ |
+| 18 - Practice Array as Parameter | 13:35 |✅ |
+| 19 - Structure as Parameter | 10:32 |✅ |
+| 20 - Practice Structure as Parameter | 11:5 |✅ |
 | 21 - Structures and Functions Must Watch | 5:15 | |
 | 22 - Converting a C program to a C class Must Watch | 9:28 | |
 | 23 - Practice Monolithic Program | 4:50 | |
