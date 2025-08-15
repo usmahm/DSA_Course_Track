@@ -146,20 +146,20 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 79 - Introduction to Array | 4:11 | |
-| 80 - Declarations of Array | 6:9 | |
-| 81 - Demo Array Declaration | 4:54 | |
-| 82 - Static vs Dynamic Arrays | 8:47 | |
-| 83 - Demo Static vs Dynamic Array | 4:41 | |
-| 84 - How to Increase Array Size | 5:9 | |
-| 85 - Demo Increasing Array Size | 7:46 | |
-| 86 - 2D Arrays | 10:36 | |
-| 87 - Demo 2D Array | 6:46 | |
-| 88 - Array Representation by Compiler | 8:43 | |
-| 89 - Row Major Formula for 2D Arrays | 9:37 | |
-| 90 - Column Major Formula for 2D Arrays | 6:30 | |
-| 91 - Formulas for nD Arrays | 11:10 | |
-| 92 - Formulas for 3D Arrays | 3:37 | |
+| 79 - Introduction to Array | 4:11 | ✅|
+| 80 - Declarations of Array | 6:9 | ✅|
+| 81 - Demo Array Declaration | 4:54 |✅ |
+| 82 - Static vs Dynamic Arrays | 8:47 |✅ |
+| 83 - Demo Static vs Dynamic Array | 4:41 |✅ |
+| 84 - How to Increase Array Size | 5:9 | ✅|
+| 85 - Demo Increasing Array Size | 7:46 |✅ |
+| 86 - 2D Arrays | 10:36 |✅ |
+| 87 - Demo 2D Array | 6:46 |✅ |
+| 88 - Array Representation by Compiler | 8:43 |✅ |
+| 89 - Row Major Formula for 2D Arrays | 9:37 |✅ |
+| 90 - Column Major Formula for 2D Arrays | 6:30 | ✅|
+| 91 - Formulas for nD Arrays | 11:10 | ✅|
+| 92 - Formulas for 3D Arrays | 3:37 | ✅|
 | 93 - Solutions for Quiz 2 | 15:5 | |
 </details>
 
