@@ -170,19 +170,19 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 94 - Array ADT | 4:34 | |
-| 95 - Demo Array ADT | 13:3 | |
-| 96 - Inserting in an Array | 11:4 | |
-| 97 - Lets Code Insert | 6:49 | |
-| 98 - Deleting from Array | 6:28 | |
-| 99 - Lets Code Delete | 5:46 | |
-| 100 - Linear Search | 11:31 | |
-| 101 - Improving Linear Search | 4:18 | |
-| 102 - Lets Code Linear Search | 6:26 | |
-| 103 - Binary Search | 9:58 | |
-| 104 - Binary Search Algorithm | 7:7 | |
-| 105 - Lets Code Binary Search | 6:58 | |
-| 106 - Analysis of Binary Search | 12:46 | |
+| 94 - Array ADT | 4:34 |✅ |
+| 95 - Demo Array ADT | 13:3 |✅ |
+| 96 - Inserting in an Array | 11:4 |✅ |
+| 97 - Lets Code Insert | 6:49 |✅ |
+| 98 - Deleting from Array | 6:28 |✅ |
+| 99 - Lets Code Delete | 5:46 |✅ |
+| 100 - Linear Search | 11:31 |✅ |
+| 101 - Improving Linear Search | 4:18 |✅ |
+| 102 - Lets Code Linear Search | 6:26 |✅ |
+| 103 - Binary Search | 9:58 |✅ |
+| 104 - Binary Search Algorithm | 7:7 | ✅|
+| 105 - Lets Code Binary Search | 6:58 |✅ |
+| 106 - Analysis of Binary Search | 12:46 |✅ |
 | 107 - Average Case Analysis of Binary Search | 11:25 | |
 | 108 - Get Set Avg Max functions on Array | 14:34 | |
 | 109 - Lets Code Get Set Max on Array | 8:56 | |
