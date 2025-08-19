@@ -30,10 +30,10 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 001 About the Course | 3:39 | |
-| 002 Why Learn C++ | 5:0 | |
-| 003 Modern C++ and the  C++ Standard | 2:57 | |
-| 004 How does all this work | 8:13 | |
+| 001 About the Course | 3:39 |✅ |
+| 002 Why Learn C++ | 5:0 |✅ |
+| 003 Modern C++ and the  C++ Standard | 2:57 |✅ |
+| 004 How does all this work | 8:13 |✅ |
 </details>
 
 ---
@@ -43,21 +43,21 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 001 Installation and Setup Overview | 2:53 | |
-| 002 Installing the C++ Compiler on Windows | 7:6 | |
+| 001 Installation and Setup Overview | 2:53 |✅ |
+| 002 Installing the C++ Compiler on Windows | 7:6 |✅ |
 | 003 Installing CodeLite on Windows | 3:48 | |
 | 004 Configuring CodeLite on Windows | 22:40 | |
-| 005 Installing the C++ Compiler on Mac OSX | 2:59 | |
-| 006 Installing CodeLite on Mac OSX | 4:33 | |
-| 007 Configuring CodeLite on Mac OSX | 15:5 | |
+| 005 Installing the C++ Compiler on Mac OSX | 2:59 |✅ |
+| 006 Installing CodeLite on Mac OSX | 4:33 | ✅|
+| 007 Configuring CodeLite on Mac OSX | 15:5 | ✅|
 | 008 Using the Command-Line interface | 1:32 | |
 | 009 Installing CodeLite on Ubuntu Linux | 6:27 | |
 | 010 Configuring CodeLite on Ubuntu Linux | 17:42 | |
-| 011 Creating a Default CodeLite Project Template (All Versions) | 7:45 | |
+| 011 Creating a Default CodeLite Project Template (All Versions) | 7:45 |✅ |
 | 012 Using the Command-Line Interface on Windows | 9:43 | |
 | 013 Using the Command-Line Interface on Mac OSX | 7:49 | |
 | 014 Using the Command-Line Interface on Linux (Ubuntu) | 8:55 | |
-| 015 Using a Web-based C++ Compiler | 3:22 | |
+| 015 Using a Web-based C++ Compiler | 3:22 |✅ |
 | 016 Using the Included Source Code Course Resources | 5:8 | |
 </details>
 
