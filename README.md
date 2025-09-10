@@ -188,25 +188,25 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 | 109 - Lets Code Get Set Max on Array | 8:56 | |
 | 110 - Reverse and Shift an Array | 11:7 | |
 | 111 - Lests Code Reversing an Array | 5:37 | |
-| 112 - Check if Array is Sorted | 15:45 | |
+| 112 - Check if Array is Sorted | 15:45 |✅ |
 | 113 - Lets Code to check if Array is Sorted | 10:37 | |
-| 114 - Merging Arrays | 8:49 | |
-| 115 - Lets Code to Merge Arrays | 7:53 | |
-| 116 - Set operations on Array Union Intersection and Difference | 12:1 | |
-| 117 - Lets Code Set operations on Array | 9:23 | |
-| 118 - Lets Code a Menu Driver program for Arrays | 7:28 | |
-| 119 - Lets convert C program for Array to C | 15:42 | |
-| 120 - Lets Put all together in C program for Array | 16:48 | |
-| 121 - Student Challenge Finding Single Missing Element in an Array | 10:59 | |
-| 122 - Student Challenge Finding Multiple Missing Elements in an Array | 8:5 | |
-| 123 - Student Challenge Finding Missing Element in an Array Method 2 | 8:3 | |
-| 124 - Student Challenge Finding Duplicates in a Sorted Array | 12:53 | |
-| 125 - Student Challenge Finding Duplicates in Sorted Array using Hashing | 7:29 | |
-| 126 - Student Challenge Finding Duplicates in a Unsorted Array | 13:12 | |
-| 127 - Student Challenge Finding a Pair of Elements with sum K | 13:3 | |
-| 128 - Student Challenge Finding a Pair of Elements with sum K in Sorted Array | 7:35 | |
-| 129 - Student Challenge Finding Max and Min in a single Scan | 9:1 | |
-| 130 - Solutions for Quiz 3 | 12:55 | |
+| 114 - Merging Arrays | 8:49 |✅ |
+| 115 - Lets Code to Merge Arrays | 7:53 |✅ |
+| 116 - Set operations on Array Union Intersection and Difference | 12:1 |✅ |
+| 117 - Lets Code Set operations on Array | 9:23 |✅ |
+| 118 - Lets Code a Menu Driver program for Arrays | 7:28 | ✅|
+| 119 - Lets convert C program for Array to C | 15:42 | ✅|
+| 120 - Lets Put all together in C program for Array | 16:48 | ✅|
+| 121 - Student Challenge Finding Single Missing Element in an Array | 10:59 | ✅|
+| 122 - Student Challenge Finding Multiple Missing Elements in an Array | 8:5 | ✅|
+| 123 - Student Challenge Finding Missing Element in an Array Method 2 | 8:3 | ✅|
+| 124 - Student Challenge Finding Duplicates in a Sorted Array | 12:53 |✅ |
+| 125 - Student Challenge Finding Duplicates in Sorted Array using Hashing | 7:29 |✅ |
+| 126 - Student Challenge Finding Duplicates in a Unsorted Array | 13:12 |✅ |
+| 127 - Student Challenge Finding a Pair of Elements with sum K | 13:3 | ✅|
+| 128 - Student Challenge Finding a Pair of Elements with sum K in Sorted Array | 7:35 |✅ |
+| 129 - Student Challenge Finding Max and Min in a single Scan | 9:1 |✅ |
+| 130 - Solutions for Quiz 3 | 12:55 |✅ |
 </details>
 
 ---
