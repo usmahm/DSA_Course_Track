@@ -236,11 +236,11 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 142 - Section Introduction | 0:59 | |
-| 143 - Diagonal Matrix | 8:40 | |
-| 144 - Lets Code Diagonal Matrix | 7:46 | |
-| 145 - C class for Diagonal Matrix | 13:42 | |
-| 146 - Lets Code C class for Diagonal matrix | 7:3 | |
+| 142 - Section Introduction | 0:59 | ✅|
+| 143 - Diagonal Matrix | 8:40 |✅|
+| 144 - Lets Code Diagonal Matrix | 7:46 |✅ |
+| 145 - C class for Diagonal Matrix | 13:42 |✅ |
+| 146 - Lets Code C class for Diagonal matrix | 7:3 |✅ |
 | 147 - Lower Triangular Matrix RowMajor Mapping | 9:26 | |
 | 148 - Lower Triangular Matrix ColumnMajor Mapping | 6:37 | |
 | 149 - Lets Code Lower Triangular Matrix in C | 12:48 | |
@@ -283,14 +283,14 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 
 | Lecture | Duration | Watched |
 |--------|----------|---------|
-| 171 - Why we need Dynamic Data Structure Linked List | 9:16 | |
-| 172 - About Linked List | 9:57 | |
-| 173 - More About Linked List | 7:52 | |
-| 174 - Display Linked List | 5:41 | |
-| 175 - Lets Code Display for Linked List | 10:18 | |
-| 176 - Recursive Display of Linked List | 13:46 | |
-| 177 - Lets Code Recursive Display for Linked List | 3:51 | |
-| 178 - Counting Nodes in a Linked List | 10:33 | |
+| 171 - Why we need Dynamic Data Structure Linked List | 9:16 |✅ |
+| 172 - About Linked List | 9:57 |✅ |
+| 173 - More About Linked List | 7:52 | ✅|
+| 174 - Display Linked List | 5:41 |✅ |
+| 175 - Lets Code Display for Linked List | 10:18 |✅ |
+| 176 - Recursive Display of Linked List | 13:46 |✅ |
+| 177 - Lets Code Recursive Display for Linked List | 3:51 |✅ |
+| 178 - Counting Nodes in a Linked List | 10:33 |✅ |
 | 179 - Sum of All Elements in a Linked List | 3:58 | |
 | 180 - Lets Code Count and Sum | 7:19 | |
 | 181 - Maximum Element in a Linked List | 6:22 | |
