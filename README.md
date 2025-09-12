@@ -184,10 +184,10 @@ I'll update this README as I go through each lecture by placing a ✅ in the "Wa
 | 105 - Lets Code Binary Search | 6:58 |✅ |
 | 106 - Analysis of Binary Search | 12:46 |✅ |
 | 107 - Average Case Analysis of Binary Search | 11:25 | |
-| 108 - Get Set Avg Max functions on Array | 14:34 | |
-| 109 - Lets Code Get Set Max on Array | 8:56 | |
-| 110 - Reverse and Shift an Array | 11:7 | |
-| 111 - Lests Code Reversing an Array | 5:37 | |
+| 108 - Get Set Avg Max functions on Array | 14:34 |✅ |
+| 109 - Lets Code Get Set Max on Array | 8:56 |✅ |
+| 110 - Reverse and Shift an Array | 11:7 |✅ |
+| 111 - Lests Code Reversing an Array | 5:37 |✅ |
 | 112 - Check if Array is Sorted | 15:45 |✅ |
 | 113 - Lets Code to check if Array is Sorted | 10:37 | |
 | 114 - Merging Arrays | 8:49 |✅ |
